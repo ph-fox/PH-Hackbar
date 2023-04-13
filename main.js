@@ -1,7 +1,7 @@
 var html = `
 <div onload='PHLoadSite();' class="PH-Hackbar" id="PH-main">
   <div class="PH-Logo-Banner">
-    <h1>PH Hackbar</h1>
+    <h1>Philippines Hackbar</h1>
   </div>  
   <div class="PH-stage">
     <textarea id="PH-site-input" autofocus></textarea>
